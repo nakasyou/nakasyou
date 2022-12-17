@@ -2,7 +2,7 @@
 I am nakasyou✨
 ## Who is nakasyou?
 - I like programming.
-#### I liked Languages:
+#### My favorite Language:
 - Python
 - html
 - JavaScript
