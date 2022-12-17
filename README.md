@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+I am nakasyou✨
+## Who is nakasyou?
+- I like programming.
+####I liked Languages:
+- Python
+- html
+- JavaScript
+- Scratch
 
 <!--
 **nakasyou/nakasyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
