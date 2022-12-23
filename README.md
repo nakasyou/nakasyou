@@ -8,7 +8,7 @@ I am nakasyou✨
 - JavaScript
 - Scratch  
   
-- I love Touhou-project.
+#### I love Touhou-project.
 #### Why?
 - This music is very good.
 - This DANMAKU is very beautiful.
