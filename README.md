@@ -1,6 +1,8 @@
 # Hi there 👋
 I am nakasyou✨
 ## What is about nakasyou?
+- I am Japanese.
+- I am junior high school student
 - I like programming.
 #### My favorite Languages:
 - Python
