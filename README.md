@@ -1,13 +1,17 @@
 # Hi there 👋
 I am nakasyou✨
-## Who is nakasyou?
+## What is about nakasyou?
 - I like programming.
-#### My favorite Language:
+#### My favorite Languages:
 - Python
 - html
 - JavaScript
-- Scratch
-
+- Scratch  
+  
+- I love Touhou-project.
+#### Why?
+- This music is very good.
+- This DANMAKU is very beautiful.
 <!--
 **nakasyou/nakasyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
