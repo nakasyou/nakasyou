@@ -1,5 +1,5 @@
 # Hi there 👋
-![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=flat](nakasyou)
+![nakasyou](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=flat)
 I am nakasyou✨
 ## What is about nakasyou?
 - I am Japanese.
