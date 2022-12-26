@@ -13,6 +13,7 @@ I am nakasyou✨
 #### I love Touhou-project.
 - This music is very good.
 - This DANMAKU is very beautiful.
+<img width=410 src="https://github-readme-stats.vercel.app/api?username=henji243&count_private=true&theme=blueberry" />
 <!--
 **nakasyou/nakasyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
