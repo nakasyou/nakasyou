@@ -17,6 +17,7 @@ I am nakasyou✨
 ## Links
 - Scratch: [@nakasyou1103](//scratch.mit.edu/users/nakasyou1103)
 - Element: [@nakasyou](//matrix.to/#/@nakasyou:matrix.org)
+- Discord: nakasyou#1395
 <img width=410 src="https://github-readme-stats.vercel.app/api?username=nakasyou&count_private=true&theme=blueberry" />
 <!--
 **nakasyou/nakasyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
