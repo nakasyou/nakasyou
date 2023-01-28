@@ -7,10 +7,11 @@ I am nakasyou✨
 - I like programming.
 #### My favorite Languages:
 - Python
-- html
+- HTML/CSS
 - JavaScript
+- TypeScript
 - Scratch  
-  
+
 #### I love Touhou-project.
 - This music is very good.
 - This DANMAKU is very beautiful.
