@@ -1,4 +1,11 @@
-![nakasyou](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=flat)
+![nakasyou](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=flat-square)
+[![](https://img.shields.io/badge/形態素解析-janome-green?style=flat-square)](https://mocobeta.github.io/janome/)
+[![](https://img.shields.io/badge/JS%20Runtime-Deno-black?style=flat-square&logo=deno)](https://deno.land)
+[![](https://img.shields.io/badge/main%20OS-Windows%2010-blue?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/software-download/windows10ISO)
+[![](https://img.shields.io/badge/Phone%20OS-Android%2011-green?style=flat-square&logo=android)](https://www.android.com/)
+[![](https://img.shields.io/badge/Phone-Xperia-red?style=flat-square&logo=android)](https://xperia.sony.jp)
+[![](https://img.shields.io/badge/WSL-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://xperia.sony.jp)
+[![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-red?style=flat-square&logo=rasberry)](https://www.raspberrypi.com/software/)
 # Hi there 👋
 I am nakasyou✨
 ## What is about nakasyou?
