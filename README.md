@@ -6,6 +6,11 @@
 [![](https://img.shields.io/badge/Phone-Xperia-red?style=flat-square&logo=android)](https://xperia.sony.jp)
 [![](https://img.shields.io/badge/WSL-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://xperia.sony.jp)
 [![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-red?style=flat-square&logo=rasberry)](https://www.raspberrypi.com/software/)
+
+[![](https://img.shields.io/badge/Scratch-@nakasyou1103-F9A83A?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
+[![](https://img.shields.io/badge/Element-%40nakasyou:matrix.org-0DBD8B?logo=element&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
+[![](https://img.shields.io/badge/Twitter-%40nakasyou0-1D9BF0?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou)
+[![](https://img.shields.io/badge/GitHub-%40nakasyou-000000?logo=GitHub&style=for-the-badge)](https://twitter.com/nakasyou)
 # Hi there 👋
 I am nakasyou✨
 ## What is about nakasyou?
