@@ -3,14 +3,15 @@
 [![](https://img.shields.io/badge/JS%20Runtime-Deno-black?style=flat-square&logo=deno)](https://deno.land)
 [![](https://img.shields.io/badge/main%20OS-Windows%2010-blue?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/software-download/windows10ISO)
 [![](https://img.shields.io/badge/Phone%20OS-Android%2011-green?style=flat-square&logo=android)](https://www.android.com/)
-[![](https://img.shields.io/badge/Phone-Xperia-red?style=flat-square&logo=android)](https://xperia.sony.jp)
-[![](https://img.shields.io/badge/WSL-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://ubuntu.com)
-[![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-red?style=flat-square&logo=rasberry)](https://www.raspberrypi.com/software/)
+[![](https://img.shields.io/badge/Phone-Xperia-red?style=flat-square&logo=sony)](https://xperia.sony.jp)
+[![](https://img.shields.io/badge/WSL-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://ubuntu.com)
+[![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-A22846?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.com/software/)
 
-[![](https://img.shields.io/badge/Scratch-@nakasyou1103-F9A83A?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
+[![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
 [![](https://img.shields.io/badge/Element-%40nakasyou:matrix.org-0DBD8B?logo=element&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
-[![](https://img.shields.io/badge/Twitter-%40nakasyou0-1D9BF0?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou0)
-[![](https://img.shields.io/badge/GitHub-%40nakasyou-000000?logo=GitHub&style=for-the-badge)](https://github.com/nakasyou)
+[![](https://img.shields.io/badge/Twitter-%40nakasyou0-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou0)
+[![](https://img.shields.io/badge/GitHub-%40nakasyou-181717?logo=GitHub&style=for-the-badge)](https://github.com/nakasyou)
+[![](https://img.shields.io/badge/Wikipedia-@nakasyou1103-006699?logo=wikipedia&style=for-the-badge)](https://ja.wikipedia.org/wiki/user:Nakasyou1103)
 # Hi there 👋
 I am nakasyou✨
 ## What is about nakasyou?
