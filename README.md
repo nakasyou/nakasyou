@@ -5,7 +5,8 @@
 [![](https://img.shields.io/badge/Phone%20OS-Android%2011-green?style=flat-square&logo=android)](https://www.android.com/)
 [![](https://img.shields.io/badge/Phone-Xperia-red?style=flat-square&logo=sony)](https://xperia.sony.jp)
 [![](https://img.shields.io/badge/WSL-Ubuntu-E95420?style=flat-square&logo=ubuntu)](https://ubuntu.com)
-[![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-A22846?style=flat-square&logo=Raspberry%20Pi)](https://www.raspberrypi.com/software/)-->
+[![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-A22846?style=flat-square&logo=Raspberry%20Pi)]
+(https://www.raspberrypi.com/software/)-->
 
 [![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
 [![](https://img.shields.io/badge/Element-%40nakasyou:matrix.org-0DBD8B?logo=element&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
@@ -34,3 +35,5 @@ I am nakasyou✨
 ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/nakasyou/nakasyou/main/img/snake.svg) 
+
+![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=fla)
