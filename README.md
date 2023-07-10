@@ -17,8 +17,8 @@
 I am nakasyou✨
 #### What is about nakasyou?
 - I'm Japanese.
-- I'm junior high school student.
-- I love programming.
+- I'm Junior High School student.
+- I likw programming.
 ## Links
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 - Element: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
