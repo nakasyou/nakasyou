@@ -9,7 +9,7 @@
 (https://www.raspberrypi.com/software/)-->
 
 [![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
-[![](https://img.shields.io/badge/Element-%40nakasyou:matrix.org-0DBD8B?logo=element&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
+[![](https://img.shields.io/badge/Matrix-%40nakasyou:matrix.org-0DBD8B?logo=matrix&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
 [![](https://img.shields.io/badge/Twitter-%40nakasyou0-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou0)
 [![](https://img.shields.io/badge/GitHub-%40nakasyou-181717?logo=GitHub&style=for-the-badge)](https://github.com/nakasyou)
 [![](https://img.shields.io/badge/Wikipedia-@nakasyou1103-006699?logo=wikipedia&style=for-the-badge)](https://ja.wikipedia.org/wiki/user:Nakasyou1103)
@@ -23,6 +23,7 @@ I am nakasyou✨
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 - Element: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
 - Discord: nakasyou#1395
+- ~~X~~Twitter: [@nakasyou](https://x.com/nakasyou)
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=nakasyou&count_private=true&theme=blueberry)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakasyou)](https://github.com/anuraghazra/github-readme-stats)-->
 
