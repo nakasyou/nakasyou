@@ -21,7 +21,7 @@ I am nakasyou✨
 - I like programming.
 ## Links
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
-- Element: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
+- Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
 - Discord: nakasyou#1395
 - ~~X~~Twitter: [@nakasyou](https://x.com/nakasyou)
 ## Stats
