@@ -23,7 +23,7 @@ I am nakasyou✨
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 - Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
 - Discord: nakasyou#1395
-- ~~X~~Twitter: [@nakasyou](https://x.com/nakasyou)
+- ~~X~~Twitter: [@nakasyou0](https://x.com/nakasyou0)
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=nakasyou&count_private=true&theme=blueberry)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakasyou)](https://github.com/anuraghazra/github-readme-stats)-->
 
