@@ -1,4 +1,4 @@
-<!--![nakasyou](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=flat-square)
+<!--![nakasyou](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&style=square)
 [![](https://img.shields.io/badge/形態素解析-janome-green?style=flat-square)](https://mocobeta.github.io/janome/)
 [![](https://img.shields.io/badge/JS%20Runtime-Deno-black?style=flat-square&logo=deno)](https://deno.land)
 [![](https://img.shields.io/badge/main%20OS-Windows%2010-blue?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/software-download/windows10ISO)
@@ -8,23 +8,22 @@
 [![](https://img.shields.io/badge/Rasberry%20Pi-Rasberry%20Pi%20OS-A22846?style=flat-square&logo=Raspberry%20Pi)]
 (https://www.raspberrypi.com/software/)-->
 
-[![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
-[![](https://img.shields.io/badge/Matrix-%40nakasyou:matrix.org-0DBD8B?logo=matrix&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
-[![](https://img.shields.io/badge/Twitter-%40nakasyou0-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou0)
-[![](https://img.shields.io/badge/GitHub-%40nakasyou-181717?logo=GitHub&style=for-the-badge)](https://github.com/nakasyou)
-[![](https://img.shields.io/badge/Wikipedia-@nakasyou1103-006699?logo=wikipedia&style=for-the-badge)](https://ja.wikipedia.org/wiki/user:Nakasyou1103)
 ### Hi there 👋
-I am nakasyou✨
+I am Shotaro Nakamura (aka: nakasyou)✨
+
 #### What is about nakasyou?
 - I'm Japanese.
 - I'm Junior High School student.
 - I like programming.
-## Links
+
+<u>***[やることリスト!!!!!](https://github.com/nakasyou/todo/issues)***</u>
+
+#### Links
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 - Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
 - Discord: nakasyou#1395
 - ~~X~~Twitter: [@nakasyou0](https://x.com/nakasyou0)
-## Stats
+#### Stats
 ![](https://github-readme-stats.vercel.app/api?username=nakasyou&count_private=true&theme=blueberry)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakasyou)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![](https://raw.githubusercontent.com/nakasyou/nakasyou/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
@@ -40,3 +39,9 @@ I am nakasyou✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakasyou)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=fla)
+***
+[![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
+[![](https://img.shields.io/badge/Matrix-%40nakasyou:matrix.org-0DBD8B?logo=matrix&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
+[![](https://img.shields.io/badge/Twitter-%40nakasyou0-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/nakasyou0)
+[![](https://img.shields.io/badge/GitHub-%40nakasyou-181717?logo=GitHub&style=for-the-badge)](https://github.com/nakasyou)
+[![](https://img.shields.io/badge/Wikipedia-@nakasyou1103-006699?logo=wikipedia&style=for-the-badge)](https://ja.wikipedia.org/wiki/user:Nakasyou1103)
