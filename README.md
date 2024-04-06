@@ -15,6 +15,7 @@ I am Shotaro Nakamura (aka: nakasyou)✨
 - I'm Japanese.
 - I'm Junior High School student.
 - I like programming.
+- <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby>！！
 
 <u>***[やることリスト!!!!!](https://github.com/nakasyou/todo/issues)***</u>
 
