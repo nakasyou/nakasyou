@@ -11,6 +11,13 @@
 ### Hi there 👋
 I am Shotaro Nakamura (aka: nakasyou)✨
 
+| X | Y |
+| --- | --- |
+| Japanese Name | 中村 承太郎 |
+| Hiragana Name | なかむら しょうたろう
+| English Name | Shotaro Nakamura |
+| aka | nakasyou |
+| NickName | Andrew |
 #### What is about nakasyou?
 - I'm Japanese.
 - I'm Junior High School student.
