@@ -34,3 +34,5 @@ I am Shotaro Nakamura (aka: nakasyou)✨
 
 #### Ohter Info
 - [Stats](./stats.md)
+
+![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=fla)
