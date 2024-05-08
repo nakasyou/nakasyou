@@ -13,7 +13,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakasyou)](https://github.com/ryo-ma/github-profile-trophy)
 
-![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=fla)
 ***
 [![](https://img.shields.io/badge/Scratch-@nakasyou1103-4D97FF?logo=scratch&style=for-the-badge)](https://scratch.mit.edu/users/nakasyou1103)
 [![](https://img.shields.io/badge/Matrix-%40nakasyou:matrix.org-0DBD8B?logo=matrix&style=for-the-badge)](https://matrix.to/#/@nakasyou:matrix.org)
