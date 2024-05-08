@@ -13,7 +13,7 @@ I am Shotaro Nakamura (aka: nakasyou)✨
 
 | X | Y |
 | --- | --- |
-| Japanese Name | 中村 承太郎 |
+| Japanese Name | **中村 承太郎** |
 | Hiragana Name | なかむら しょうたろう
 | English Name | Shotaro Nakamura |
 | aka | nakasyou |
