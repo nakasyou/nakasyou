@@ -24,18 +24,12 @@ I am Shotaro Nakamura (aka: nakasyou)✨
 | aka | nakasyou |
 
 #### What is about nakasyou?
-- I'm Japanese.
-- I'm Junior High School student.
-- I like programming.
-- <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby>！！
+Japanese / I'm Junior High School student / <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby> / プログラミング依存症?
 
 <u>***[やることリスト!!!!!](https://github.com/nakasyou/todo/issues)***</u>
 
 #### Links
-- Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
-- Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
-- Discord: nakasyou#1395
-- ~~Twitter~~X: [@nakasyou0](https://x.com/nakasyou0)
+Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103) / Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org) / Discord: nakasyou#1395 / ~~Twitter~~X: [@nakasyou0](https://x.com/nakasyou0)
 
 #### Ohter Info
 - [Stats](./stats.md)
