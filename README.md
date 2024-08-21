@@ -24,7 +24,7 @@ I am Shotaro Nakamura (aka: nakasyou)✨
 | aka | nakasyou |
 
 #### What is about nakasyou?
-Japanese / I'm Junior High School student / <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby> / プログラミング依存症?
+Japanese / Junior High School student / 14yo / <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby> / プログラミング依存症?
 
 <u>***[やることリスト!!!!!](https://github.com/nakasyou/todo/issues)***</u>
 
