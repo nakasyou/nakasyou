@@ -12,26 +12,12 @@
 ```math
 \ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/nakasyou/nakasyou/blob/main/nakasyou.png?raw=true');]{x0000}$}
 ```
--->
 ### Hi there 👋
-I am Shotaro Nakamura (aka: nakasyou)✨
-
-#### About
-
-Japanese / Junior High School student / 15yo / <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby> / プログラミング依存症?
-
-#### Links
-
-Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103) / Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org) / Discord: nakasyou#1395 / ~~Twitter~~X: [@nakasyou0](https://x.com/nakasyou0) / sizu.me:[/nakasyou](https://sizu.me/nakasyou)
-
-#### Ohters
+-->
+- I am Shotaro Nakamura (aka: nakasyou)✨
+- Japanese / Junior High School student / 15yo / <ruby>中3<rp>(</rp><rt>受験生</rt><rp>)</rp></ruby> / プログラミング依存症?
+- Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103) / Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org) / Discord: nakasyou#1395 / ~~Twitter~~X: [@nakasyou0](https://x.com/nakasyou0) / sizu.me:[/nakasyou](https://sizu.me/nakasyou)
 - [Stats](./stats.md)
+- https://nakasyou.github.io
 
 ![https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=nakasyou&label=Profile%20views&color=0e75b6&style=fla)
-
-| X | Y |
-| --- | --- |
-| Japanese Name | **中村 承太郎** |
-| Hiragana Name | なかむら しょうたろう
-| English Name | Shotaro Nakamura |
-| aka | nakasyou |
