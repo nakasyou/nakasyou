@@ -15,7 +15,7 @@
 ### Hi there 👋
 -->
 - I am Shotaro Nakamura (aka: nakasyou)✨
-- Japanese / High School student / 16yo / <ruby>高1<rp>(</rp><rt></rt><rp>)</rp></ruby> / プログラミング依存症?
+- Japanese / High School student / 16yo / <ruby>高2<rp>(</rp><rt></rt><rp>)</rp></ruby> / プログラミング依存症?
 - Scratch: [@nakasyou1103](https://scratch.mit.edu/users/nakasyou1103) / Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org) / Discord: nakasyou_sub / ~~Twitter~~X: [@nakasyou0](https://x.com/nakasyou0) / sizu.me:[/nakasyou](https://sizu.me/nakasyou)
 - [Stats](./stats.md)
 - https://nakasyou.how
